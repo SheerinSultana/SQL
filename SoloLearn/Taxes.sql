@@ -1,7 +1,7 @@
 /*You are working on the Employees table, which stores the names and salaries of employees.
 
 You need to calculate the taxes for the salaries and output them as a new column.
-
+http://sololearn/
 The tax percentage is based on the salary amount:
 
 0 - 1500: 10%
